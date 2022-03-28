@@ -1,0 +1,42 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    background-color: royalblue;
+}
+.mobile{
+    position: relative;
+    text-align: center;
+    background-color: black;
+}
+.input{
+    margin: 10px;
+}
+#fname{
+    text-align: center;
+    font-family: Tahoma;
+}
+.skin{
+    margin: auto;
+    padding-left: 45px;
+}
+div.heroskin{
+    margin: 10px;
+    float: left;
+    width: auto;
+    text-transform: uppercase;
+    cursor: pointer;
+}
+.heroskin:hover{
+    text-decoration: underline;
+    color: white;
+}
+.heroname{
+    position: relative;
+    text-align: center;
+    top: 5px;
+    font-family: Sans-Serif;
+    font-size: 15px;
+    font-weight: 900;
+}
